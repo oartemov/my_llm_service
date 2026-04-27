@@ -137,3 +137,23 @@
 {"timestamp": "2026-04-27T17:18:18.925376Z", "level": "INFO", "message": "Model response received"}
 {"timestamp": "2026-04-27T17:18:18.925376Z", "level": "INFO", "message": "Stage completed"}
 {"timestamp": "2026-04-27T17:18:18.925376Z", "level": "INFO", "message": "Stage completed"}
+{"timestamp": "2026-04-27T17:43:55.951040Z", "level": "INFO", "message": "Incoming request"}
+{"timestamp": "2026-04-27T17:43:55.951040Z", "level": "INFO", "message": "Cache miss"}
+{"timestamp": "2026-04-27T17:43:55.951040Z", "level": "INFO", "message": "Prompt generated"}
+{"timestamp": "2026-04-27T17:43:55.951040Z", "level": "INFO", "message": "Stage completed"}
+{"timestamp": "2026-04-27T17:43:56.941406Z", "level": "ERROR", "message": "Error occurred"}
+{"timestamp": "2026-04-27T17:43:57.516735Z", "level": "INFO", "message": "Incoming request"}
+{"timestamp": "2026-04-27T17:43:57.516735Z", "level": "INFO", "message": "Cache miss"}
+{"timestamp": "2026-04-27T17:43:57.516735Z", "level": "INFO", "message": "Prompt generated"}
+{"timestamp": "2026-04-27T17:43:57.516735Z", "level": "INFO", "message": "Stage completed"}
+{"timestamp": "2026-04-27T17:43:57.856074Z", "level": "ERROR", "message": "Error occurred"}
+{"timestamp": "2026-04-27T17:43:57.894285Z", "level": "INFO", "message": "Incoming request"}
+{"timestamp": "2026-04-27T17:43:57.894285Z", "level": "INFO", "message": "Cache miss"}
+{"timestamp": "2026-04-27T17:43:57.894285Z", "level": "INFO", "message": "Prompt generated"}
+{"timestamp": "2026-04-27T17:43:57.894285Z", "level": "INFO", "message": "Stage completed"}
+{"timestamp": "2026-04-27T17:43:58.128742Z", "level": "ERROR", "message": "Error occurred"}
+{"timestamp": "2026-04-27T17:43:58.206838Z", "level": "INFO", "message": "Incoming request"}
+{"timestamp": "2026-04-27T17:43:58.209159Z", "level": "INFO", "message": "Cache miss"}
+{"timestamp": "2026-04-27T17:43:58.209159Z", "level": "INFO", "message": "Prompt generated"}
+{"timestamp": "2026-04-27T17:43:58.210979Z", "level": "INFO", "message": "Stage completed"}
+{"timestamp": "2026-04-27T17:43:58.492555Z", "level": "ERROR", "message": "Error occurred"}
