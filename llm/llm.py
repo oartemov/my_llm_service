@@ -83,11 +83,11 @@ class GigaChatClient:
             "model": "GigaChat",
             "messages": [{"role": "system", "content": "Ты помощник."}, 
                          {"role": "user", "content": prompt}],
-            "temperature": 0.7,
-            "max_tokens": 2000
+            "temperature": gigachat_config.get("temperature"),
+            "max_tokens": gigachat_config.get("max_tokens")
         }
 
-        max_retries = 3
+        max_retries = gigachat_config.get("max_retries")
         for attempt in range(max_retries + 1):
             try:
                 response = requests.post(self.api_url, headers=headers, json=payload, verify=False, timeout=30)

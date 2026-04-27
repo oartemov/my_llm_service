@@ -3,3 +3,6 @@ gigachat:
   api_url: "https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
   credentials: ""  # GIGACHAT_CREDENTIALS (Base64)
   api_key: ""     # GIGACHAT_API_KEY (Bearer token)
+  max_retries: 3
+  temperature: 0.7
+  max_tokens: 2000
